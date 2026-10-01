@@ -11,3 +11,6 @@ print(f"Subtraction Result: {result_sub}")
 
 result_mul = obj.Mul(6, 7)
 print(f"Multiplication Result: {result_mul}")
+
+result_div = obj.Div(10, 2)
+print(f"Division Result: {result_div}")
