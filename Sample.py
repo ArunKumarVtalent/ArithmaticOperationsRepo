@@ -10,3 +10,6 @@ class Sample:
 
     def Sub(self, a, b):
         return a - b
+
+    def Mul(self, a, b):
+        return a * b
