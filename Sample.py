@@ -13,3 +13,6 @@ class Sample:
 
     def Mul(self, a, b):
         return a * b
+
+    def Div(self, x, y):
+        return x // y
